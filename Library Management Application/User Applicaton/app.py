@@ -11,8 +11,8 @@ from User import *
 # Main program
 def main():
     print("Welcome to the Library Management System!")
-    user_service = User(r'C:\Users\HP\Documents\Library Application\Data\Users_data.csv')
-    library = Library(r'C:\Users\HP\Documents\Library Application\Data\Books_data_.csv')  # Specify your desired CSV file path
+    user_service = User(r'C:\Users\HP\Documents\Library Management Application\Data\Users_data.csv')
+    library = Library(r'C:\Users\HP\Documents\Library Management Application\Data\Books_data_.csv')  # Specify your desired CSV file path
 
     print("Users and books loaded.")
     
