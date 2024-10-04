@@ -1,0 +1,64 @@
+Unnamed: 0,bid,title,author,category,status,Stock Count
+0.0,1,Steve Jobs,Walter Issacson,Biography,available,5
+1.0,2,Discovery of India,Jawaharlal Nehru,History,available,6
+2.0,3,My Experiments with Truth,Mahatma Gandhi,Autobiography,available,6
+3.0,4,Object Oriented Programming with C++,E Balagurusamy,Education,available,6
+4.0,5,Thinking with type,Ellen Lupton,Arts,available,6
+5.0,6,The Photographer's,Lindsay Adler,Photography,available,6
+6.0,7,Think and Grow,Napoleon Hill,Economics,available,6
+7.0,8,The Fifth Discipline : The Art,Peter M.Senge,Management,available,6
+8.0,9,A Theory of Justice,John Rawls,Law,available,6
+9.0,10,Eat to Live,Joel Fuhrman,Health,available,6
+10.0,11,City of Heavenly Fire,Cassandra Clare,Fiction,available,6
+11.0,12,Da Vinci Code,Dan Brown,Fiction,available,6
+12.0,13,War and Peace,Leo Tolstoy,Philosophical fiction,available,6
+13.0,14,Python For All,John Shovic,Education,available,6
+14.0,15,Automate The Boring Stuff With Python,Al Sweigart,Education,available,6
+15.0,16,Wings Of Fire,APJ Abdul Kalam,Autobiography,available,6
+16.0,17,Ikigai,Hector Garcia,Personal Development,available,6
+17.0,18,Who Will Cry When You Will Die,Robin Sharma,Personal Development,available,6
+18.0,19,Rich Dad Poor Dad,Robert T. Kiyosaki,Business,available,8
+19.0,20,Immortals of Meluha,Amish Tirpathi,High Fantasy,available,8
+20.0,21,A Brief History Of Time,Stephen Hawking,SPACE,available,8
+21.0,22,I Know Why The Cage Bird Sings,Maya Anguelo,Story,available,8
+22.0,23,Lord Of Files,William Golding,Fiction,available,8
+23.0,24,Loara Dune,R. D Blackmore,Fiction,available,8
+24.0,25,Jamacia Inn,Daphne,Fiction,available,8
+25.0,26,Kidnapped,Robert Louis,Fiction,available,8
+26.0,27,Treasure Island,Robert Louis,Fiction,available,8
+27.0,28,The Call Of Wild,Jack London,Fiction,available,8
+28.0,29,Charlottes Web,E. B White,Fiction,available,8
+29.0,30,The Wind In Willows,Kenneth Grahame,Fiction,available,8
+30.0,31,Being and Time,Martin Heldegger,Philosophy,available,8
+31.0,32,The Republic,Rocha Pereia,Philosophy,available,8
+32.0,33,Critique For Pure Reason,Paul Guyer,Philosophy,available,8
+33.0,34,The Prince,Rufus Godwin,Philosophy,available,8
+34.0,35,Ethics,Stuart Hampshire,Philosophy,available,8
+35.0,36,Long Walk To Freedom,Nelson Mandela,Autobiography,available,8
+36.0,37,The Dairy Of Young Girl,Anne Frank,Autobiography,available,8
+37.0,38,Mark Twain,Mark Twain,Autobiography,available,8
+38.0,39,Mein Kampf,Adolf Hitler,Autobiography,available,8
+39.0,40,Freakonomics,Steveb D.Levit,Economics,available,8
+40.0,41,Thinking Fast and Slow,Daniel Kahneman,Economics,available,8
+41.0,42,Tell You About Capitalism,HA-Joon Chang,Economics,available,8
+42.0,43,Animal Spirits,Akerlof and Shiller,Economics,available,8
+43.0,44,The Black Swan,Nassim Nicholas Taleb,Economics,available,8
+44.0,45,1984,George Orwell,Story,available,8
+45.0,46,The Lord Of Wings,J.R.R.Tolken,Story,available,8
+46.0,47,Kite Runner,Khaled Hosseini,Story,available,5
+47.0,48,Harry Potter,J.K.Rowling,Story,available,5
+48.0,49,The Book Theif,Markus Zusak,Story,available,5
+49.0,50,History Of 20th Century,Martin Gilbert,History,available,5
+50.0,51,"Guns,Germs,and Steel",Jared Daimond,History,available,5
+51.0,52,A World lit Only by Fire,William Manchestar,History,available,5
+52.0,53,The Crusades,Thomas Asbridge,History,available,5
+53.0,54,Over The Edge Of The World,Laurence,History,available,5
+54.0,55,A Beautiful Mind,Sylvia Nasar,Biography,available,5
+55.0,56,The Enigma,Andrew Hodges,Biography,available,5
+56.0,57,Alexander Hamilton,Ron Chernow,Biography,available,5
+57.0,58,Barracoon,Zora Neale Hurston,Biography,available,5
+58.0,59,CHURCHILL : A Life,MArtin Glibert,Biography,available,5
+59.0,60,A Tale of Two Cities,Charles Dickens,Historical novel,available,5
+60.0,61,Les Misérables,Victor Hugo,Historical fiction,available,5
+0.0,62,Tuesdays with Morrie,Mitch Albom,Philosophical fiction,available,10
+,62,Ikigai,Francesc Miralles,Philosophical,available,10
